@@ -1,0 +1,14 @@
+#cabecalho {
+    background-color: #5d5d5d;
+    height: 300px;
+}
+
+#principal {
+    background-color: #3f3f3f;
+    height: 500px;
+}
+
+#rodape {
+    background-color: #202020;
+    height: 200px;
+}
